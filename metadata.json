@@ -1,0 +1,8 @@
+{
+  "name": "Mahesh Allakatla Training Centre",
+  "description": "An elite educational institute offering courses in Data Intelligence, AI, and Cloud Engineering with a built-in AI Career Architect for personalized roadmaps.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
